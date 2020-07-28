@@ -1,0 +1,3 @@
+model_accuracy, filename
+0.9615384615384616, ../models/multiNB_20-07-27T18:49:33.014222.pkl
+0.9615384615384616, ../models/multiNB_20-07-27T19:08:03.602999.pkl
